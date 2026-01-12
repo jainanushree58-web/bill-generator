@@ -1,0 +1,7 @@
+{
+  "name": "BillGenius AI",
+  "description": "A smart bill generator that lets you create professional invoices via text or voice commands using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
